@@ -12,6 +12,10 @@ telegram opens chat with your bot, after clicking on start, the app registers in
  - https://core.telegram.org/bots/api
  - https://github.com/yagop/node-telegram-bot-api
 
+## config
+ - in `config` folder, create file `default.json`
+ - paste content from `default.example.json` into `default.json` and change to your keys 
+
 ## run
  - `git clone https://github.com/alexanderman/telegram-bot.git`
  - `npm install`
